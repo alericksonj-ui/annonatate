@@ -1,4 +1,10 @@
 images:
+- added: '2026-06-15 17:58:49.872312'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00037-00001-A-000-00002.jp2
+  user: alericksonj-ui
 - added: '2026-04-22 19:49:30.883703'
   iiif: true
   thumbnail: https://luna.manchester.ac.uk/luna/servlet/iiif/maps002~1~1~416191~306406/full/!1024,1024/0/default.jpg
